@@ -1,0 +1,48 @@
+06-Jan-2022 19:18:13.243 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.56
+06-Jan-2022 19:18:13.246 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 2 2021 14:30:07 UTC
+06-Jan-2022 19:18:13.247 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.56.0
+06-Jan-2022 19:18:13.247 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+06-Jan-2022 19:18:13.247 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+06-Jan-2022 19:18:13.247 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+06-Jan-2022 19:18:13.247 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17.0.1
+06-Jan-2022 19:18:13.247 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.1+12-LTS-39
+06-Jan-2022 19:18:13.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+06-Jan-2022 19:18:13.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Admin\Desktop\JAVA5\apache-tomcat-9.0.56
+06-Jan-2022 19:18:13.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Admin\Desktop\JAVA5\apache-tomcat-9.0.56
+06-Jan-2022 19:18:13.256 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+06-Jan-2022 19:18:13.257 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+06-Jan-2022 19:18:13.257 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+06-Jan-2022 19:18:13.257 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+06-Jan-2022 19:18:13.257 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+06-Jan-2022 19:18:13.258 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Admin\Desktop\JAVA5\apache-tomcat-9.0.56\conf\logging.properties
+06-Jan-2022 19:18:13.258 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+06-Jan-2022 19:18:13.258 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+06-Jan-2022 19:18:13.259 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+06-Jan-2022 19:18:13.259 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+06-Jan-2022 19:18:13.259 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Admin\Desktop\JAVA5\apache-tomcat-9.0.56
+06-Jan-2022 19:18:13.259 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Admin\Desktop\JAVA5\apache-tomcat-9.0.56
+06-Jan-2022 19:18:13.260 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Admin\Desktop\JAVA5\apache-tomcat-9.0.56\temp
+06-Jan-2022 19:18:13.268 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+06-Jan-2022 19:18:13.268 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+06-Jan-2022 19:18:13.269 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+06-Jan-2022 19:18:13.295 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+06-Jan-2022 19:18:13.505 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+06-Jan-2022 19:18:13.522 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [439] milliseconds
+06-Jan-2022 19:18:13.554 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+06-Jan-2022 19:18:13.554 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.56]
+06-Jan-2022 19:18:13.570 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Admin\Desktop\JAVA5\apache-tomcat-9.0.56\webapps\Lab1_Bai2.war]
+06-Jan-2022 19:18:15.489 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+06-Jan-2022 19:18:17.995 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Admin\Desktop\JAVA5\apache-tomcat-9.0.56\webapps\Lab1_Bai2.war] has finished in [4,425] ms
+06-Jan-2022 19:18:17.996 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Admin\Desktop\JAVA5\apache-tomcat-9.0.56\webapps\docs]
+06-Jan-2022 19:18:18.021 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Admin\Desktop\JAVA5\apache-tomcat-9.0.56\webapps\docs] has finished in [25] ms
+06-Jan-2022 19:18:18.021 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Admin\Desktop\JAVA5\apache-tomcat-9.0.56\webapps\examples]
+06-Jan-2022 19:18:18.456 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Admin\Desktop\JAVA5\apache-tomcat-9.0.56\webapps\examples] has finished in [435] ms
+06-Jan-2022 19:18:18.457 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Admin\Desktop\JAVA5\apache-tomcat-9.0.56\webapps\host-manager]
+06-Jan-2022 19:18:18.497 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Admin\Desktop\JAVA5\apache-tomcat-9.0.56\webapps\host-manager] has finished in [40] ms
+06-Jan-2022 19:18:18.498 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Admin\Desktop\JAVA5\apache-tomcat-9.0.56\webapps\manager]
+06-Jan-2022 19:18:18.538 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Admin\Desktop\JAVA5\apache-tomcat-9.0.56\webapps\manager] has finished in [40] ms
+06-Jan-2022 19:18:18.538 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Admin\Desktop\JAVA5\apache-tomcat-9.0.56\webapps\ROOT]
+06-Jan-2022 19:18:18.562 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Admin\Desktop\JAVA5\apache-tomcat-9.0.56\webapps\ROOT] has finished in [23] ms
+06-Jan-2022 19:18:18.564 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+06-Jan-2022 19:18:18.619 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [5096] milliseconds
+06-Jan-2022 19:26:07.406 SEVERE [main] org.apache.catalina.startup.Catalina.stopServer Could not contact [localhost:8005] (base port [8005] and offset [0]). Tomcat may not be running.
